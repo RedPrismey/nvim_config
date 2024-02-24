@@ -1,4 +1,6 @@
-# 💤 LazyVim
+# Installation :
+- `git clone https://github.com/RedPrismey/nvim_config.git`
+- `nvim`
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+# Configuration :
+I put my plugins in `lua/plugins` and my colorscheme is in `lua/plugins/colorscheme.lua`.
